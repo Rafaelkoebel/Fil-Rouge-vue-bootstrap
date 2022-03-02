@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'rudaregular';
+    src: url('Ruda-Regular-webfont.eot');
+    src: url('Ruda-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ruda-Regular-webfont.woff2') format('woff2'),
+         url('Ruda-Regular-webfont.woff') format('woff'),
+         url('Ruda-Regular-webfont.ttf') format('truetype'),
+         url('Ruda-Regular-webfont.svg#rudaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

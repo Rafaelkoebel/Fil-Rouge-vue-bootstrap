@@ -1,0 +1,32 @@
+{   
+    "time": 
+    {   "updated": "Feb 10, 2022 11:36:00 UTC", 
+        "updatedISO": "2022-02-10T11:36:00+00:00", 
+        "updateduk": "Feb 10, 2022 at 11:36 GMT" 
+    }, 
+    "disclaimer": "This data was produced from articles", 
+    "chartName": "Produits", 
+    "produits": 
+    [
+        {
+            "id":1,
+            "titre":"Confitures",
+            "image":"confiture5.jpg"
+        },
+        {
+            "id":2,
+            "titre":"Glaces",
+            "image":"glace3.jpg"
+        },
+        {
+            "id":3,
+            "titre":"Gateaux",
+            "image":"gateau2.jpg"
+        },
+        {
+            "id":4,
+            "titre":"Yaourts",
+            "image":"yaourt2.jpg"
+        }
+    ]
+}
